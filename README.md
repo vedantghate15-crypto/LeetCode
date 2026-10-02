@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/vedantghate15-crypto/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
