@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [3163-string-compression-iii](https://github.com/vedantghate15-crypto/LeetCode/tree/master/3163-string-compression-iii) |
 <!---LeetCode Topics End-->
