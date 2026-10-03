@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3163-string-compression-iii](https://github.com/vedantghate15-crypto/LeetCode/tree/master/3163-string-compression-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2595-number-of-even-and-odd-bits](https://github.com/vedantghate15-crypto/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
