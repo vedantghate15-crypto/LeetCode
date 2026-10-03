@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0704-binary-search) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2595-number-of-even-and-odd-bits](https://github.com/vedantghate15-crypto/LeetCode/tree/master/2595-number-of-even-and-odd-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
