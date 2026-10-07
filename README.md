@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [3163-string-compression-iii](https://github.com/vedantghate15-crypto/LeetCode/tree/master/3163-string-compression-iii) |
 ## Bit Manipulation
 |  |
@@ -60,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/vedantghate15-crypto/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
